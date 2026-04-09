@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BotanicalGarden>
+  <Plants>
+    <Plant>
+      <Name>Индийская азалия</Name>
+      <LatinName>Rhododendron simsii</LatinName>
+      <Family>Вересковые</Family>
+      <PlantType>Декоративно-цветущий кустарник</PlantType>
+      <AgeYears>5</AgeYears>
+      <IsRare>false</IsRare>
+      <Description>Индийская азалия растет в оранжерее Ботанического сада КФУ. Весной она красиво цветет и хорошо подходит для коллекции субтропических растений.</Description>
+      <Location>
+        <Greenhouse>Оранжерея КФУ</Greenhouse>
+        <Section>Субтропические растения</Section>
+        <BedNumber>B-04</BedNumber>
+      </Location>
+      <Care>
+        <Watering>Регулярный полив мягкой подкисленной водой</Watering>
+        <Light>Яркий рассеянный свет</Light>
+        <Temperature>12-18 C</Temperature>
+        <Soil>Кислый рыхлый грунт на основе торфа</Soil>
+      </Care>
+    </Plant>
+    <Plant>
+      <Name>Японская камелия</Name>
+      <LatinName>Camellia japonica</LatinName>
+      <Family>Чайные</Family>
+      <PlantType>Вечнозеленый декоративный кустарник</PlantType>
+      <AgeYears>7</AgeYears>
+      <IsRare>false</IsRare>
+      <Description>Японская камелия находится в оранжерее Ботанического сада КФУ. Это декоративное растение с крупными цветками и плотными блестящими листьями.</Description>
+      <Location>
+        <Greenhouse>Оранжерея КФУ</Greenhouse>
+        <Section>Субтропические растения</Section>
+        <BedNumber>C-09</BedNumber>
+      </Location>
+      <Care>
+        <Watering>Умеренный полив без пересушивания</Watering>
+        <Light>Яркий рассеянный свет</Light>
+        <Temperature>8-16 C</Temperature>
+        <Soil>Слабокислый плодородный грунт</Soil>
+      </Care>
+    </Plant>
+    <Plant>
+      <Name>Гинкго билоба</Name>
+      <LatinName>Ginkgo biloba</LatinName>
+      <Family>Гинкговые</Family>
+      <PlantType>Реликтовое листопадное дерево</PlantType>
+      <AgeYears>12</AgeYears>
+      <IsRare>true</IsRare>
+      <Description>Гинкго билоба выращивается в дендрарии Ботанического сада КФУ. Это древнее реликтовое дерево, которое входит в коллекцию редких растений.</Description>
+      <Location>
+        <Greenhouse>Дендрарий КФУ</Greenhouse>
+        <Section>Реликтовые деревья</Section>
+        <BedNumber>D-02</BedNumber>
+      </Location>
+      <Care>
+        <Watering>Умеренный полив в теплый сезон</Watering>
+        <Light>Солнечное место</Light>
+        <Temperature>Устойчиво к сезонным перепадам</Temperature>
+        <Soil>Дренированная садовая почва</Soil>
+      </Care>
+    </Plant>
+  </Plants>
+</BotanicalGarden>
